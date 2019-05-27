@@ -1,0 +1,8 @@
+.results-list li:nth-child(even) {
+  background-color: #E8E8E8;
+}
+
+.label-row {
+  background-color: #A2D9CE;
+  padding: 10px;
+}
